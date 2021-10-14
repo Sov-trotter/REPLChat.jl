@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+REPLChat = "52867e31-94ac-45a8-b3a3-3934c44562a7"
