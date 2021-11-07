@@ -7,7 +7,7 @@
 Chat with your friends/colleagues, directly though the julia REPL or any terminal
 
 
-julia```
+```
 using REPLChat
 
 # creates a user
