@@ -4,7 +4,10 @@
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://Sov-trotter.github.io/REPLChat.jl/dev)
 [![Build Status](https://github.com/Sov-trotter/REPLChat.jl/workflows/CI/badge.svg)](https://github.com/Sov-trotter/REPLChat.jl/actions)
 
-Chat with your friends/colleagues in the julia REPL itself!
+Chat with your friends/colleagues from the <a href="https://julialang.org">
+        <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia.ico" width="16em">
+        Julia Language
+    </a> REPL itself!
 
 
 ```
