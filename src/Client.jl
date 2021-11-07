@@ -2,7 +2,7 @@ module Client
 using HTTP, JSON3, Base64
 using ..Model, ..Auth
 # const SERVER = Ref{String}("https://musicalbums-revd52bpca-uc.a.run.app")
-const SERVER = Ref{String}("https://b7b0-2409-4056-19c-478-6b08-389d-a740-e9ea.ngrok.io")
+const SERVER = Ref{String}("https://afff-2001-550-2-2c-00-46-10.ngrok.io")
 
 const AUTH_TOKEN = Ref{String}()
 
