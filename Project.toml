@@ -3,9 +3,6 @@ uuid = "52867e31-94ac-45a8-b3a3-3934c44562a7"
 authors = ["Arsh Sharma"]
 version = "0.1.0"
 
-[compat]
-julia = "1.1"
-
 [deps]
 Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
@@ -19,6 +16,10 @@ SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
 Strapping = "3787371a-436b-4cb0-be6b-e772a55e3ebe"
 StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
 Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
+
+[compat]
+StructTypes = "1"
+julia = "1.1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
